@@ -1,3 +1,4 @@
+import "components"
 import QtQuick
 import QtQuick.Window
 

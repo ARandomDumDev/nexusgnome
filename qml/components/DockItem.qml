@@ -54,7 +54,6 @@ Item {
             anchors.centerIn: parent
             width: 24; height: 24
             scale: 1.15
-            preferredRendererType: Shape.CurveRenderer
             ShapePath {
                 strokeColor: Qt.lighter(item.accent, 1.55)
                 strokeWidth: 1.7
